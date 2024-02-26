@@ -1,0 +1,15 @@
+Course outline
+Introduction
+1. Graphic Designing by AI
+2. Content creation by AI
+3. Voice over by AI
+4. Video making and editing by AI
+
+	1. Graphic Designing by AI
+* Prompt Writing
+* Types of Canvas
+* Scale Value
+* Types of Art
+* Syles of Art
+* Tools/ Apps/ Sites (Bing: Chat with AI and GPT 4)
+
