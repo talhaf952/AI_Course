@@ -1,8 +1,10 @@
 Logo Designing
 
-five main types of logos.
+Five main types of logos.
 1. Water Mark Logos(Text Only Logos)
 2. Pictorial Logos(Symbol and images logo)
 3. Combination Logo(Symbol and Image Logo)
 4. Abstract Logos(Text and Image Logo)
 5. Mascot Logo(Carrtoon Logo)
+
+
