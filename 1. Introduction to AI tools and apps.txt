@@ -1,4 +1,4 @@
-Course outline
+*Course outline*
 Introduction
 1. Graphic Designing by AI
 2. Content creation by AI
