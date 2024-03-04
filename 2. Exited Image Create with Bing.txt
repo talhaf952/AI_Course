@@ -2,3 +2,5 @@
 2. Two types are showing here
 	1. Explore Idea		2. Creatios
 We are going to use Creations here, where we have to write our prompt of a pic we want to create.
+Example:
+1: Natural erruption
