@@ -5,3 +5,4 @@ We are going to use Creations here, where we have to write our prompt of a pic w
 Example:
 1: Natural erruption
 2: Beard Boy reciting Quran in focus.
+3: TOm & Jerry on picnic eating Pizza.
