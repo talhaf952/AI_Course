@@ -4,3 +4,4 @@
 We are going to use Creations here, where we have to write our prompt of a pic we want to create.
 Example:
 1: Natural erruption
+2: Beard Boy reciting Quran in focus.
