@@ -1,0 +1,6 @@
+Step 1: Go to "Imagitor".
+Step 2: Again choose "Add" option.
+Step 3: Choose from "Gallery" or "Online Images".
+Step 4: Then Choose "Backgroud image".
+Step 5: Using "Set to background", image will set to backgroud.
+Step 6: You can use "Layers" option to set it accordingly.
