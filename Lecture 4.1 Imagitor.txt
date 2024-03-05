@@ -1,3 +1,5 @@
 1. Download App Imagitor
-2. 
-3. 
+step 1: Choose "New Logo Design" 
+step 2: Choose "Add" button below.
+step 3: Then Choose "Image"
+step 4: Choose "Gallery" option and then select your logo from there.
