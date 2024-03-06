@@ -7,3 +7,4 @@ Step 6: You can use "Layers" option to set it accordingly.
 
 Note: we can also set pictures with different foregroud and backgrounds
 when we create logos with Bing AI, it may contain text that may result in wrong spellings, so here it used
+From Imagitor, we can change text that aloows different font styles
