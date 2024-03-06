@@ -4,3 +4,5 @@ Step 3: Choose from "Gallery" or "Online Images".
 Step 4: Then Choose "Backgroud image".
 Step 5: Using "Set to background", image will set to backgroud.
 Step 6: You can use "Layers" option to set it accordingly.
+
+Note: we can also set pictures with different foregroud and backgrounds
